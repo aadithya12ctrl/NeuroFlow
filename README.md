@@ -967,7 +967,7 @@ This system isn't perfect. Some days I still struggle. But it's given me somethi
 
 You can do hard things. You just need the right scaffolding.
 
-— *[Your name]*
+— *[Aadithya Raghu Ram M R]*
 
 ---
 
