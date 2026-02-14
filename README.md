@@ -5,15 +5,98 @@
 
 ---
 
-## 🛑 The Struggle (Why I Built This)
 
-Living with ADHD is like having a Ferrari engine with bicycle brakes. The problem isn't "not knowing" what to do — it's **Executive Dysfunction**:
-- ⏳ **Time Blindness:** "I have all day" turns into "It's 5 PM and I did nothing."
-- 🧱 **Wall of Awful:** Easy tasks feel like climbing Mount Everest because of emotional resistance.
-- 🌀 **Doom Loops:** Getting stuck in a cycle of shame, avoidance, and cheap dopamine (scrolling).
-- 📉 **Working Memory Leaks:** Losing the thread of a task every time a distraction hits.
+## 🎯 My ADHD Journey
 
-I built **NeuroFlow** to serve as an **external executive function**. It doesn't just "manage tasks" — it actively intervenes, structures your environment, and regulates your dopamine to keep you in flow.
+### The Wall Nobody Sees
+
+I've lived with ADHD my entire life, but I was only diagnosed at 24. Before that, I thought I was just "lazy," "unfocused," or "not trying hard enough." The most frustrating part? **I knew exactly what I needed to do. I just... couldn't start.**
+
+People don't understand that ADHD isn't about intelligence or motivation. It's **neurological**. My brain literally produces 30-40% less dopamine in key circuits. This isn't metaphorical — it's measurable on fMRI scans.
+
+### The Daily Struggles
+
+**Time Blindness**  
+I'd think "I have all day," and then it's 5 PM and I've done nothing except scroll through Reddit 47 times. Time doesn't *feel* real until it's too late.
+
+**The Wall of Awful**  
+Simple tasks feel like climbing Mount Everest. There's an invisible emotional wall between me and starting. Even replying to a text can take 3 days because my brain screams "THIS IS HARD" even though I know it's not.
+
+**Doom Loops**  
+Get distracted → Feel guilty → Seek comfort (more scrolling) → More guilt → Paralysis. Rinse, repeat. By the end of the day, I've done nothing but feel terrible about myself.
+
+**Working Memory Leaks**  
+I'll start a task, get interrupted, and completely forget what I was doing. It's like having 47 browser tabs open but only being able to see one at a time, and they keep closing randomly.
+
+### The Breaking Point
+
+After years of failed productivity systems (bullet journals, Pomodoro apps, "just discipline yourself" advice), I realized something:
+
+> **Standard productivity tools assume you have a neurotypical executive function. I don't.**
+
+I needed something that understood my brain's wiring, not fought against it. Something that didn't say "just do it," but instead asked "what's blocking you, and how can we engineer around that?"
+
+That's why I built **NeuroFlow**.
+
+---
+
+## 🧱 The Problem: Executive Dysfunction
+
+ADHD isn't "can't focus." It's **Executive Dysfunction** — the brain's CEO is on permanent vacation.
+
+### What Breaks:
+
+| Function | Neurotypical Brain | ADHD Brain |
+|----------|-------------------|------------|
+| **Task Initiation** | "I should start" → starts | "I should start" → 3 hours of dread → still hasn't started |
+| **Time Perception** | Accurate sense of time passing | Time is either "now" or "not now" |
+| **Working Memory** | Holds 7±2 items | Holds 3 items on a good day |
+| **Emotional Regulation** | Frustration → keep going | Frustration → complete shutdown |
+| **Dopamine Regulation** | Steady baseline | Chronically deficient → seeks constant novelty |
+
+### The Neuroscience:
+
+- **Prefrontal Cortex**: Underdeveloped connections → poor planning, impulse control
+- **Striatum**: Low dopamine → tasks feel unrewarding unless they're intensely stimulating
+- **Default Mode Network**: Overactive → constant mind-wandering
+- **Anterior Cingulate Cortex**: Inefficient → can't switch tasks easily
+
+**NeuroFlow is designed to act as an external prefrontal cortex**, compensating for these deficits through AI-driven structure.
+
+---
+
+## 💡 The Solution: External Executive Function
+
+Instead of fighting my brain, I built a system that **works with it**.
+
+### Core Philosophy
+
+1. **Dopamine First**: Tasks aren't done because they're "important" — they're done because they're **stimulating**. NeuroFlow gamifies everything.
+
+2. **Environment > Willpower**: Don't force focus — **engineer** an environment where focus is the default state.
+
+3. **Compassionate Accountability**: No shame. If I get distracted, the system gently pivots me back without judgment.
+
+4. **Externalize Everything**: My brain can't hold context? Fine. The system holds it for me.
+
+### Why Traditional Tools Fail for ADHD
+
+| Tool | Why It Fails |
+|------|--------------|
+| **To-Do Lists** | Overwhelm. Seeing 40 items triggers paralysis, not action |
+| **Pomodoro Timers** | Assumes you can start. We can't even press "start" |
+| **Habit Trackers** | ADHD brains are dopamine-deficient — delayed rewards don't work |
+| **Notion/Obsidian** | Requires organization skills we don't have. We spend hours organizing instead of doing |
+| **Accountability Partners** | We feel shame, not motivation. Plus, we mask heavily |
+
+### What NeuroFlow Does Differently
+
+- **Breaks tasks into 2-minute micro-steps** (bypasses initiation paralysis)
+- **BPM-mapped playlists** (audio entrainment for focus states)
+- **Variable-ratio rewards** (slot machine psychology for dopamine hits)
+- **AI body doubling** (reduces isolation without human judgment)
+- **Pattern interrupts** (catches doom loops before they spiral)
+- **Time reality checks** (compensates for time blindness)
 
 ---
 
