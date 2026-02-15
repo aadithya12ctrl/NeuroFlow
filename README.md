@@ -39,7 +39,7 @@
 
 ### The Wall Nobody Sees
 
-I've lived with ADHD my entire life, but I was only diagnosed at 24. Before that, I thought I was just "lazy," "unfocused," or "not trying hard enough." The most frustrating part? **I knew exactly what I needed to do. I just... couldn't start.**
+I've lived with ADHD my entire life, but I was only diagnosed at 2024. Before that, I thought I was just "lazy," "unfocused," or "not trying hard enough." The most frustrating part? **I knew exactly what I needed to do. I just... couldn't start.**
 
 People don't understand that ADHD isn't about intelligence or motivation. It's **neurological**. My brain literally produces 30-40% less dopamine in key circuits. This isn't metaphorical — it's measurable on fMRI scans.
 
