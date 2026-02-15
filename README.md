@@ -905,25 +905,25 @@ neuroflow/
 
 ## 🎯 Future Roadmap
 
-### Phase 1: Intelligence Improvements (Q2 2024)
+### Phase 1: Intelligence Improvements (Q2 2026)
 - [ ] **Multi-modal input**: Upload images of messy room → auto-generate cleaning micro-steps
 - [ ] **Voice interface**: Speak tasks instead of typing (lower initiation barrier)
 - [ ] **Sentiment analysis**: Detect emotional state from message tone, not just length
 - [ ] **Task templates**: Pre-built workflows for common ADHD struggles (email replies, laundry, etc.)
 
-### Phase 2: Enhanced Agent Capabilities (Q3 2024)
+### Phase 2: Enhanced Agent Capabilities (Q3 2026)
 - [ ] **Habit formation agent**: Tracks task repetition, builds sustainable routines
 - [ ] **Social accountability**: Share progress with trusted friends (opt-in)
 - [ ] **Energy forecasting**: Predict tomorrow's energy based on sleep, exercise, stress
 - [ ] **Medication reminder**: Gentle prompts for ADHD medication adherence
 
-### Phase 3: Platform Expansion (Q4 2024)
+### Phase 3: Platform Expansion (Q4 2026)
 - [ ] **Mobile app**: iOS/Android with push notifications for pattern interrupts
 - [ ] **Calendar integration**: Google Calendar, Outlook, auto-block focus time
 - [ ] **Wearable integration**: Apple Watch, Fitbit for biometric cognitive state tracking
 - [ ] **Multi-user mode**: Couples/roommates with shared dopamine economy
 
-### Phase 4: Research & Open Source (2025)
+### Phase 4: Research & Open Source (2027)
 - [ ] **Clinical validation**: Partner with ADHD clinics for effectiveness studies
 - [ ] **Open dataset**: Anonymized task patterns for ADHD research
 - [ ] **Plugin system**: Community-contributed agents (e.g., budgeting, meal planning)
